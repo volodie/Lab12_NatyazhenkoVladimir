@@ -1,0 +1,15 @@
+C:\Users\v.natyazhenko\source\repos\authorazation\authorazation\bin\Debug\net7.0\authorazation.exe
+C:\Users\v.natyazhenko\source\repos\authorazation\authorazation\bin\Debug\net7.0\authorazation.deps.json
+C:\Users\v.natyazhenko\source\repos\authorazation\authorazation\bin\Debug\net7.0\authorazation.runtimeconfig.json
+C:\Users\v.natyazhenko\source\repos\authorazation\authorazation\bin\Debug\net7.0\authorazation.dll
+C:\Users\v.natyazhenko\source\repos\authorazation\authorazation\bin\Debug\net7.0\authorazation.pdb
+C:\Users\v.natyazhenko\source\repos\authorazation\authorazation\obj\Debug\net7.0\authorazation.csproj.AssemblyReference.cache
+C:\Users\v.natyazhenko\source\repos\authorazation\authorazation\obj\Debug\net7.0\authorazation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v.natyazhenko\source\repos\authorazation\authorazation\obj\Debug\net7.0\authorazation.AssemblyInfoInputs.cache
+C:\Users\v.natyazhenko\source\repos\authorazation\authorazation\obj\Debug\net7.0\authorazation.AssemblyInfo.cs
+C:\Users\v.natyazhenko\source\repos\authorazation\authorazation\obj\Debug\net7.0\authorazation.csproj.CoreCompileInputs.cache
+C:\Users\v.natyazhenko\source\repos\authorazation\authorazation\obj\Debug\net7.0\authorazation.dll
+C:\Users\v.natyazhenko\source\repos\authorazation\authorazation\obj\Debug\net7.0\refint\authorazation.dll
+C:\Users\v.natyazhenko\source\repos\authorazation\authorazation\obj\Debug\net7.0\authorazation.pdb
+C:\Users\v.natyazhenko\source\repos\authorazation\authorazation\obj\Debug\net7.0\authorazation.genruntimeconfig.cache
+C:\Users\v.natyazhenko\source\repos\authorazation\authorazation\obj\Debug\net7.0\ref\authorazation.dll

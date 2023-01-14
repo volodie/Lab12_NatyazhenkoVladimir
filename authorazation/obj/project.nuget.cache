@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "xcg8hM0LDsJxiT+WDxX2Uk7F2oYAY4K1LU0SkzcSJHCJ0x3LRlIM4FOwmt9WZCvGh+wDRj5zL0lLHekVjO2uZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v.natyazhenko\\source\\repos\\authorazation\\authorazation\\authorazation.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://dcplvmp-sysnug1/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
