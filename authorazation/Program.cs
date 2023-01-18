@@ -8,10 +8,18 @@ internal class Program
         (string lgn, string psw, string confirmpsw) input = AuthorizationClass.InputLoginAndPassword();
         string login = input.Item1, password = input.Item2, confirmpassword = input.Item3;
 
-        if (AuthorizationClass.Check(login, password, confirmpassword))
-        {
-            Console.WriteLine("Input login and password is correct!");
-        }
+        PrintMessage writcons = new PrintMessage();
 
+        try 
+        {
+            if (AuthorizationClass.Check(login, password, confirmpassword))
+            {
+                writcons.Print("Input login and password is correct!");
+            }
+        }
+        catch (Exception ex)
+        {
+            writcons.Print(ex.Message);
+        }
     }
 }

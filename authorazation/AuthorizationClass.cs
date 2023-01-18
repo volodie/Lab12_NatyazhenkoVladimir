@@ -9,13 +9,16 @@ namespace authorazation
 {
     public class AuthorizationClass
     {
+        
         public static (string Login, string Password, string ConfirmPassword) InputLoginAndPassword()
         {
-            Console.Write("Enter login : ");
+            PrintMessage writemess = new PrintMessage();
+            writemess.Print("Enter login : ");
+            
             string login = Console.ReadLine();
-            Console.Write("Enter password: ");
+            writemess.Print("Enter password: ");
             string password = Console.ReadLine();
-            Console.Write("Enter password confirmation: ");
+            writemess.Print("Enter password confirmation: ");
             string confirmPassword = Console.ReadLine();
 
             return (login, password, confirmPassword);
